@@ -10,6 +10,7 @@ export class AppComponent {
     { title: 'Navegação', url: 'navegacao', icon: 'mail' },    
     { title: 'Navegação 2', url: 'navegacao2', icon: 'mail' },
     { title: 'Botões', url: 'botoes', icon: 'play' },
+    { title: 'Alert', url: 'alert', icon: 'play' },
   ];
   public labels = ['Family', 'Friends', 'Notes', 'Work', 'Travel', 'Reminders'];
   constructor() {}
